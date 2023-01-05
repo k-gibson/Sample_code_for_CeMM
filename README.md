@@ -1,4 +1,4 @@
-# Expample_code_for_CeMM
+# Sample_code_for_CeMM
 
 
 ### DADA2_PAN_RNAseq_DESq2.R
