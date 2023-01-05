@@ -13,6 +13,7 @@ Multiple factor analysis of 40 cytokines and clinical metadata of pediatric pati
 
 ### PedVas_GWAS_analysis.R
 Genome-wide association study of pediatric ANCA-associated vasculitis
+
 Association analyses were done using .plink, the attached code is primarily for the visualization of the data
     
     
